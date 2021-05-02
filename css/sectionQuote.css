@@ -1,0 +1,16 @@
+.sectionQuote {
+  margin-top: 130px;
+  margin-bottom: 80px;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.sectionQuote__heading {
+  font-family: "Italianno", cursive;
+  color: goldenrod;
+  font-size: 66px;
+  font-weight: 200;
+  text-align: center;
+
+  line-height: 1;
+}

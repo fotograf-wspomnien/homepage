@@ -1,0 +1,38 @@
+.sectionOneColumn {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 50px;
+}
+
+.sectionOneColumn__backgroundImage--story {
+  background-image: url("https://i.postimg.cc/tgr9NV2P/sesja-swiateczna-studyjna.jpg");
+}
+
+.sectionOneColumn__backgroundImage--book {
+  background-image: url("https://i.postimg.cc/zfDJhkS8/sesja-narzeczenska.jpg");
+}
+
+.sectionOneColumn__paragraph {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+  padding-right: 20%;
+  padding-left: 20%;
+  text-decoration: none;
+  line-height: 1.5;
+}
+
+.sectionOneColumn__heading {
+  font-family: "Italianno", cursive;
+  color: white;
+  font-size: 66px;
+  font-weight: 200;
+  text-align: center;
+  padding-top: 50px;
+  line-height: 1;
+}

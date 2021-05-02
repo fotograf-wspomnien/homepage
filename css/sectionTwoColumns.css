@@ -1,0 +1,35 @@
+.sectionTwoColumns {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.sectionTwoColumns__image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+.sectionTwoColumns__paragraph--important {
+  font-style: italic;
+}
+
+.sectionTwoColumns__paragraph {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(83, 56, 37);
+  font-size: 20px;
+  text-align: justify;
+  padding-right: 20%;
+  padding-left: 20%;
+  line-height: 1.5;
+  list-style-position: inside;
+}
+
+.sectionTwoColumns__heading {
+  font-family: "Italianno", cursive;
+  color: goldenrod;
+  font-size: 66px;
+  font-weight: 200;
+  text-align: center;
+  padding-top: 50px;
+  line-height: 1;
+}

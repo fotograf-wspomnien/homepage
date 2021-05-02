@@ -1,0 +1,23 @@
+.navigation {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: -40px;
+}
+
+.navigation__list {
+  display: inline;
+  margin-right: 15px;
+}
+
+.navigation__link {
+  text-decoration: none;
+  font-family: "Italianno", cursive;
+  color: grey;
+  font-size: 22px;
+  font-weight: 200;
+  text-align: center;
+}
+
+.navigation__link:hover {
+  color: goldenrod;
+}

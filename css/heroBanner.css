@@ -1,0 +1,32 @@
+.heroBanner {
+  background-image: url("https://i.postimg.cc/NjksLnXd/sesja-ciazowa-studyjna.jpg");
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  min-height: 800px;
+}
+
+.heroBanner__button {
+  display: block;
+  margin: auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  background-color: transparent;
+  border: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  position: absolute;
+  bottom: 65px;
+  width: 100%;
+}
+
+.heroBanner__heading {
+  font-family: "Italianno", cursive;
+  color: goldenrod;
+  font-size: 66px;
+  font-weight: 200;
+  text-align: center;
+  padding-top: 50px;
+  line-height: 1;
+}

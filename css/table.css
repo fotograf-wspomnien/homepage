@@ -1,0 +1,49 @@
+.table {
+  margin: auto;
+  margin-top: 50px;
+  border-collapse: collapse;
+  width: 90%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(83, 56, 37);
+  font-size: 18px;
+}
+
+.table__container {
+  overflow-x: auto;
+}
+
+.table__caption {
+  margin-bottom: 20px;
+}
+
+.table__cell {
+  border: solid 1px black;
+  padding: 20px;
+  text-align: center;
+}
+.table__Column--highlighted:hover {
+  background-color: rgba(240, 227, 217, 0.411);
+}
+
+.table_button {
+  display: block;
+  margin: auto;
+  margin-top: 100px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 10px 30px;
+  color: white;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: rgb(83, 56, 37);
+}
+
+.table_button:hover {
+  background-color: goldenrod;
+}
+
+.table_button:focus {
+  outline-color: goldenrod;
+  outline-style: solid;
+}
