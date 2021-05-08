@@ -16,9 +16,10 @@
   font-size: 24px;
   font-weight: bold;
   text-decoration: none;
-  position: absolute;
-  bottom: 65px;
+ position: absolute;
+  bottom: 45px;
   width: 100%;
+  
 }
 
 .heroBanner__heading {

@@ -1,12 +1,13 @@
 .sectionTwoColumns {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
 }
 
 .sectionTwoColumns__image {
   display: block;
   margin: auto;
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .sectionTwoColumns__paragraph--important {
@@ -18,10 +19,9 @@
   color: rgb(83, 56, 37);
   font-size: 20px;
   text-align: justify;
-  padding-right: 20%;
-  padding-left: 20%;
-  line-height: 1.5;
+   line-height: 1.5;
   list-style-position: inside;
+  margin-bottom: 50px;
 }
 
 .sectionTwoColumns__heading {
@@ -30,6 +30,19 @@
   font-size: 66px;
   font-weight: 200;
   text-align: center;
-  padding-top: 50px;
+  margin-block-start: 0px;
+
   line-height: 1;
+}
+
+
+.flex {
+  display: flex;
+  align-items: flex-start;
+ 
+}
+
+.flex__item{
+justify-content: space-between;
+margin: 2%;
 }
